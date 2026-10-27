@@ -99,16 +99,27 @@ Para instalarlo en un dispositivo conectado:
 
 En Windows se puede utilizar `gradlew.bat` en lugar de `./gradlew`.
 
-## Imágenes de referencia
+## Capturas de la aplicación
 
-Los siguientes recursos forman parte de la aplicación y se incluyen como
-referencia visual:
+Estas capturas muestran la aplicación funcionando. Fueron tomadas del
+documento de presentación del proyecto y se seleccionaron para no incluir
+datos personales:
 
-| Pantalla o recurso | Imagen |
-|---|---|
-| Acceso a la aplicación | ![Logo de acceso](Ahuil/app/src/main/res/drawable/logologin.png) |
-| Juego Ahorcado | ![Juego Ahorcado](Ahuil/app/src/main/res/drawable/juego_ahorcado.png) |
-| Juego Memorama | ![Juego Memorama](Ahuil/app/src/main/res/drawable/juego_memorama.png) |
+### Inicio de sesión
+
+![Pantalla de inicio de sesión](docs/screenshots/login.png)
+
+### Pantalla principal
+
+![Pantalla principal con los juegos disponibles](docs/screenshots/home.png)
+
+### Juego Ahorcado
+
+![Juego Ahorcado en ejecución](docs/screenshots/ahorcado-en-juego.png)
+
+### Juego Memorama
+
+![Memorama con parejas encontradas](docs/screenshots/memorama-completado.png)
 
 ## Estado del proyecto
 
