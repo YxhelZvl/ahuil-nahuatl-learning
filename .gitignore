@@ -1,0 +1,29 @@
+# Android/Gradle generated files
+.gradle/
+**/build/
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Local Firebase configuration and credentials
+**/google-services.json
+Proyecto Final.pdf
+*.jks
+*.keystore
+*.p12
+*.pem
+*.env
+.env.*
+
+# Generated APKs and captures
+*.apk
+*.aab
+captures/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
